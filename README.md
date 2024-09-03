@@ -6,26 +6,25 @@ I learn my skills and experience in ALX Software engineering Program and I am a 
 
 ## 🔧 Technologies & Tools
 
-**Front-end**: JavaScript,React,HTML,CSS,Redux
+- **Front-end**: JavaScript,React,HTML,CSS,Redux
+- **Back-end**: Node.js,Python,TypeScript,ES6,Java
+- **Databases**: Redis,MySQL,SQL
+- **Version Control**: Git
 
-**Back-end**: Node.js,Python,TypeScript,ES6,Java
+## 📝 WORK
 
-**Databases**: Redis,MySQL,SQL
-**Version Control**: Git
-
-## 📝 KNOWING
+- Check my Repos for more 😉
+ [https://github.com/kamva-hanisi?tab=repositories]
 
 ## 🌱 I’m currently learning
 
-**software engineering at ALX**
+- **software engineering at ALX**
 
 ## 📫 How to reach me:
-  **Email**: lucashanisi@gmail.com
-  **LinkedIn**: kamva-hanisi
+
+- **Email**: [lucashanisi@gmail.com]
+- **LinkedIn**: kamva-hanisi
   
 ## 👯 Let's Connect
 
-  **I’m looking to collaborate with active and aspiring software engineer**
-
-- ⚡ Fun fact: ...
-- e
+- **I’m looking to collaborate with active and aspiring software engineer and feel free to reach out to me**

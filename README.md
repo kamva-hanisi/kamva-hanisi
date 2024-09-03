@@ -1,5 +1,4 @@
---><a href="Map/show movies.png">-->
-    <img src="images.jpeg" alt="" title="flax-movies" align="right" height="60" />
+<img src="images.jpeg" alt="" title="flax-movies" align="right" height="60" />
 </a>
 
 ## Hi there I'm Kamva-Hanisi👋✨

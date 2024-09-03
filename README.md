@@ -1,4 +1,4 @@
-## Hi there I'm **kamva-hanisi👋✨
+## Hi there I'm Kamva-Hanisi👋✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning software engineering at ALX

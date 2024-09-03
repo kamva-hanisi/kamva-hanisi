@@ -6,8 +6,10 @@ I learn my skills and experience in ALX Software engineering Program and I am a 
 
 ## 🔧 Technologies & Tools
 
-**Front-end**: JavaScript,React,HTML,CSS,Redux/n
+**Front-end**: JavaScript,React,HTML,CSS,Redux
+
 **Back-end**: Node.js,Python,TypeScript,ES6,Java
+
 **Databases**: Redis,MySQL,SQL
 **Version Control**: Git
 

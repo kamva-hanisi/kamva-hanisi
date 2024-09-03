@@ -14,7 +14,7 @@ I learn my skills and experience in ALX Software engineering Program and I am a 
 ## 📝 WORK
 
 - Check my Repos for more 😉
- [https://github.com/kamva-hanisi?tab=repositories]
+- https://github.com/kamva-hanisi?tab=repositories
 
 ## 🌱 I’m currently learning
 
@@ -22,7 +22,7 @@ I learn my skills and experience in ALX Software engineering Program and I am a 
 
 ## 📫 How to reach me:
 
-- **Email**: [lucashanisi@gmail.com]
+- **Email**: lucashanisi@gmail.com
 - **LinkedIn**: kamva-hanisi
   
 ## 👯 Let's Connect

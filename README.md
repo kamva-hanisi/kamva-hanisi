@@ -1,6 +1,6 @@
 ## Hi there I'm Kamva-Hanisi👋✨
 
-<img src="/Blue Black Minimal Simple Corporate Animated Logo" alt="flax-movie">
+<img src="./Blue Black Minimal Simple Corporate Animated Logo" alt="flax-movie">
 
 ## About Me
 

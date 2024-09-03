@@ -1,5 +1,4 @@
-<img src="images.jpeg" alt="" title="flax-movies" align="right" height="60" />
-</a>
+<img src="images.jpeg" alt="" title="" align="right" height="60" />
 
 ## Hi there I'm Kamva-Hanisi👋✨
 

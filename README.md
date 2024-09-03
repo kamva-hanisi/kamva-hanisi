@@ -1,6 +1,6 @@
 ## Hi there I'm Kamva-Hanisi👋✨
 
-<img src="kay Logo.png" alt="flax-movie">
+<img src="kay Logo.png" alt="">
 
 ## About Me
 

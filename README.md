@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**kamva-hanisi/kamva-hanisi** is a ✨ _special_ ✨
+## Hi there I'm **kamva-hanisi👋✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning software engineering at ALX

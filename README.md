@@ -13,8 +13,8 @@ My skill set spans from front-end development, including JavaScript and React, t
 ## 🔧 Technologies & Tools
 
 - **Front-end**: JavaScript,React,HTML,CSS,Redux
-- **Back-end**: Node.js,Python,TypeScript,ES6,Java
-- **Databases**: Redis,MySQL,SQL
+- **Back-end**: Node.js,Python,TypeScript,ES6
+- **Databases**: Redis,MySQL,PostgreSQL
 - **Version Control**: Git
 
 ## 📝 WORK

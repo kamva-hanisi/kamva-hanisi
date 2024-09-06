@@ -6,7 +6,9 @@
 
 ## About Me
 
-I learn my skills and experience in ALX Software engineering Program and I am a graduater,I'm a full-stack engineer and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is where I started with software engineering, what I am passionate about and what inspires me. I am proficient about these languages and frameworks, I have participated in these projects, playing these roles. Please prepare a template I can use, which revamp all the sections of the GitHub profile. Enrich this template with HTML markups and compelling format and make it professional. My expertise spans from front-end development with JavaScript, React to Back-end development with Java, Node.js
+I gained my skills and experience through the ALX Software Engineering Program, where I graduated as a full-stack engineer. I am passionate about software development and continually seek to enhance my expertise. My GitHub profile reflects this journey, showcasing projects and roles that highlight my proficiency in various programming languages and frameworks. I am currently focused on revamping my profile to stand out during my job search and demonstrate my capabilities.
+
+My skill set spans from front-end development, including JavaScript and React, to back-end development with Node.js and Express. I am committed to creating professional, well-structured projects, and I am eager to further enrich my GitHub profile with compelling HTML markups and a modern, polished format.
 
 ## 🔧 Technologies & Tools
 

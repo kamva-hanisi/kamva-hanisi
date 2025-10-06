@@ -1,6 +1,6 @@
-<img src="images.jpeg" alt="" title="" align="right" height="60" />
+<img src="images.jpeg" alt="" title="" align="right" width="60" height="60" />
 
-## Hi there I'm Kamva-Hanisi👋✨
+## Hi there, I'm Kamva-Hanisi👋✨
 
 <img src="kay Logo.png" alt="">
 
@@ -24,7 +24,8 @@ My skill set spans from front-end development, including JavaScript and React, t
 
 ## 🌱 I’m currently learning
 
-- **software engineering at ALX**
+- **software engineering at ALX (powered by Holberton Inc)-Nairobi, Kenya (ALX HQ)**
+- **Udemy (online learning platform)-San Francisco, California, USA (Udemy headquarters)**
 
 ## 📫 How to reach me:
 
@@ -33,4 +34,4 @@ My skill set spans from front-end development, including JavaScript and React, t
   
 ## 👯 Let's Connect
 
-- **I’m looking to collaborate with active and aspiring software engineer and feel free to reach out to me**
+- **I’m looking to collaborate with active and aspiring Software engineers and feel free to reach out to me**

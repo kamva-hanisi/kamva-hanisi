@@ -6,16 +6,22 @@
 
 ## About Me
 
-I gained my skills and experience through the ALX Software Engineering Program, where I graduated as a full-stack engineer. I am passionate about software development and continually seek to enhance my expertise. My GitHub profile reflects this journey, showcasing projects and roles that highlight my proficiency in various programming languages and frameworks. I am currently focused on revamping my profile to stand out during my job search and demonstrate my capabilities.
+I am a Full-Stack Software Engineer, proudly trained and certified through the ALX Software Engineering Program, where I gained extensive hands-on experience in both front-end and back-end development. My passion for software development drives me to continuously learn, build, and refine solutions that are efficient, scalable, and impactful.
 
-My skill set spans from front-end development, including JavaScript and React, to back-end development with Node.js and Express. I am committed to creating professional, well-structured projects, and I am eager to further enrich my GitHub profile with compelling HTML markups and a modern, polished format.
+In addition to my ALX training, I have expanded my backend expertise through a Udemy certification in:
 
+Learn C# by Doing | C# Projects | Bootcamp for C# Interview | Advanced C# | .NET 9 | LINQ | Interview Questions
+
+This has strengthened my understanding of .NET Core, ASP.NET Core, Entity Framework, and the use of Visual Studio for professional software development.
+
+My GitHub profile reflects this journey — showcasing projects that highlight my technical proficiency, creativity, and commitment to clean, maintainable code. I am currently focused on revamping my repositories to better represent my professional capabilities and readiness for new opportunities.
 ## 🔧 Technologies & Tools
 
-- **Front-end**: JavaScript,React,HTML,CSS,Redux
-- **Back-end**: Node.js,Python,TypeScript,ES6
-- **Databases**: Redis,MySQL,PostgreSQL
-- **Version Control**: Git
+- **Front-end**: JavaScript, React, HTML, CSS, Redux
+- **Back-end**: Node.js, Express, Python, C#, .NET Core, ASP.NET Core
+-**Frameworks & Tools**: Entity Framework, Visual Studio, Git, REST APIs, Shell Scripting
+-**Databases**: MySQL, SQL
+-**Development Practices**: Agile Development, Code Review, Test-Driven Development
 
 ## 📝 WORK
 
@@ -34,4 +40,4 @@ My skill set spans from front-end development, including JavaScript and React, t
   
 ## 👯 Let's Connect
 
-- **I’m looking to collaborate with active and aspiring Software engineers and feel free to reach out to me**
+- **I’m looking to collaborate with active and aspiring Software engineers, and feel free to reach out to me**

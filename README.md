@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Kamva-Hanisi👋✨
 
-<img src="kay Logo.png" alt="">
+<img src="kay Logo.png" alt="" width="100" height="80">
 
 ## About Me
 

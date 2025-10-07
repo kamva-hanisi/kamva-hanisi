@@ -1,4 +1,4 @@
-<img src="images(1).jpeg" alt="" title="" align="right" width="60" height="60" />
+<img src="images(1).png" alt="" title="" align="right" width="60" height="60" />
 
 ## Hi there, I'm Kamva-Hanisi👋✨
 
@@ -6,15 +6,14 @@
 
 ## About Me
 
-I am a Full-Stack Software Engineer, proudly trained and certified through the ALX Software Engineering Program, where I gained extensive hands-on experience in both front-end and back-end development. My passion for software development drives me to continuously learn, build, and refine solutions that are efficient, scalable, and impactful.
+I am a Full-Stack Software Engineer, proudly trained and certified through the ALX (powered by Holberton Inc)-Nairobi, Kenya (ALX HQ) Program, where I gained extensive hands-on experience in both front-end and back-end development. My passion for software development drives me to continuously learn, build, and refine solutions that are efficient, scalable, and impactful.
 
 In addition to my ALX training, I have expanded my backend expertise through a Udemy certification in:
+Udemy (online learning platform)-San Francisco, California, USA (Udemy headquarters)
 
-Learn C# by Doing | C# Projects | Bootcamp for C# Interview | Advanced C# | .NET 9 | LINQ | Interview Questions
+This has strengthened my understanding of C#, .NET Core, ASP.NET Core, Entity Framework Core, and the use of Visual Studio for professional software development.
 
-This has strengthened my understanding of .NET Core, ASP.NET Core, Entity Framework, and the use of Visual Studio for professional software development.
-
-My GitHub profile reflects this journey — showcasing projects that highlight my technical proficiency, creativity, and commitment to clean, maintainable code. I am currently focused on revamping my repositories to better represent my professional capabilities and readiness for new opportunities.
+My GitHub profile reflects this journey — showcasing projects that highlight my technical proficiency, creativity, and commitment to clean, maintainable code. I am currently focused on revamping my repositories better to represent my professional capabilities and readiness for new opportunities.
 ## 🔧 Technologies & Tools
 
 - **Front-end**: JavaScript, React, HTML, CSS, Redux

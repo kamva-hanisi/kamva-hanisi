@@ -1,4 +1,4 @@
-<img src="images.jpeg" alt="" title="" align="right" width="60" height="60" />
+<img src="images.jpeg" alt="" title="" align="right" width="60" height="80" />
 
 ## Hi there, I'm Kamva-Hanisi👋✨
 

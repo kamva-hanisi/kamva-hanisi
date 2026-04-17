@@ -4,39 +4,46 @@
 
 <img src="kay Logo.png" alt="" width="200" height="150">
 
-## About Me
+## 💻 About Me
 
-I am a Full-Stack Software Engineer, proudly trained and certified through the ALX (powered by Holberton Inc)-Nairobi, Kenya (ALX HQ) Program, where I gained extensive hands-on experience in both front-end and back-end development. My passion for software development drives me to continuously learn, build, and refine solutions that are efficient, scalable, and impactful.
+I am a **Full-Stack Software Engineer** with strong experience in building scalable, production-ready web applications from the ground up. I am proudly trained and certified through the **ALX Software Engineering Program (powered by Holberton Inc.)**, where I gained extensive hands-on experience in both **front-end and back-end development**.
 
-In addition to my ALX training, I have expanded my backend expertise through a Udemy certification in:
-Udemy (online learning platform)-San Francisco, California, USA (Udemy headquarters)
+My expertise lies in developing modern, responsive user interfaces and robust backend systems using **React, JavaScript, Node.js, and Express**. I am passionate about building clean, maintainable, and efficient software solutions that solve real-world problems.
 
-This has strengthened my understanding of C#, .NET Core, ASP.NET Core, Entity Framework Core, and the use of Visual Studio for professional software development.
+My GitHub repositories showcase projects that reflect my technical skills, problem-solving ability, and commitment to continuous learning and professional growth. I am currently focused on refining my portfolio and repositories to better represent my professional capabilities and readiness for new opportunities.
 
-My GitHub profile reflects this journey — showcasing projects that highlight my technical proficiency, creativity, and commitment to clean, maintainable code. I am currently focused on revamping my repositories better to represent my professional capabilities and readiness for new opportunities.
 ## 🔧 Technologies & Tools
 
-- **Front-end**: JavaScript, React, HTML, CSS, Redux
-- **Back-end**: Node.js, Express, Python, C#, .NET Core, ASP.NET Core
--**Frameworks & Tools**: Entity Framework, Visual Studio, Git, REST APIs, Shell Scripting
--**Databases**: MySQL, SQL
--**Development Practices**: Agile Development, Code Review, Test-Driven Development
+- **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
+- **Back-end**: Node.js, Express, TypeScript, REST API Development
+- **Technologies & Tools**: Visual Studio, Git, Postman, Axios, **ChatGPT**
+- **Databases**: MySQL (Schema Design, Query Optimization)
+- **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
-## 📝 WORK
+## 🚀 What I’m Working On
+- Building and improving full-stack web applications
+- Revamping repositories to align with industry standards
+- Strengthening scalable backend architecture skills
+- Expanding modern frontend development practices
 
-- Check my Repos for more 😉
-  https://github.com/kamva-hanisi?tab=repositories
+## 📂 WORK
 
-## 🌱 I’m currently learning
+- Check out my repositories here: 😉
+ 🔗 https://github.com/kamva-hanisi?tab=repositories
 
-- **software engineering at ALX (powered by Holberton Inc)-Nairobi, Kenya (ALX HQ)**
-- **Udemy (online learning platform)-San Francisco, California, USA (Udemy headquarters)**
+## 🌱 currently learning
 
-## 📫 How to reach me:
+- Advanced **Software Engineering**
+- Scalable **Full-Stack Development**
+- Modern backend architecture and best practices
+  
+## 📫 Reach me:
 
 - **Email**: lucashanisi@gmail.com
 - **LinkedIn**: kamva-hanisi
   
-## 👯 Let's Connect
+## 🤝 Let's Connect
 
-- **I’m looking to collaborate with active and aspiring Software engineers, and feel free to reach out to me**
+I’m open to collaborating with **software engineers, developers, and tech teams** working on impactful projects.
+
+Feel free to connect with me 🚀

@@ -16,7 +16,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
 - **Back-end**: Node.js, Express.js, TypeScript, REST API Development
-- **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, 
+- **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, **Copilot**, **Render**
 - **Databases**: Postgres (Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 

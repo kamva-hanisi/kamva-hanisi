@@ -29,7 +29,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 ## 📂 WORK
 
 - Check out my repositories here: 😉
- 🔗 `https://github.com/kamva-hanisi?tab=repositories`
+ 🔗 https://github.com/kamva-hanisi?tab=repositories
 
 ## PROJECTS
 

@@ -32,8 +32,31 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
  🔗 `https://github.com/kamva-hanisi?tab=repositories`
 
 ## PROJECTS
-**Task-Manager** - 
-Deploy - `https://task-mananger-client.onrender.com/`
+
+
+### Task-Manager
+
+A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
+
+- **Tech Stack**: React, JavaScript, Node.js, Express, MySQL, CSS
+- **Repository**: [View Code] (`https://github.com/kamva-hanisi/Task-Mananger`)
+- **Live Demo**: [View Project] (`https://task-mananger-client.onrender.com/`)
+
+### Driving School
+
+A web application for a driving school business, designed to present services, support learner engagement, and provide a professional online presence for potential students. The project highlights responsive page layouts, clear service presentation, user-friendly navigation, and business-focused frontend development.
+
+- **Tech Stack**: React, JavaScript, HTML5, CSS3
+- **Repository**: [View Code] (`https://github.com/kamva-hanisi/driving_school`)
+- **Live Demo**: [View Project] (`Add live demo link here`)
+
+### NestWise Properties
+
+A property-focused web application built to showcase real estate listings and present property information in a clean, accessible, and user-friendly way. The project demonstrates frontend interface design, structured content presentation, responsive layouts, and practical business-oriented web development.
+
+- **Tech Stack**: React, JavaScript, HTML5, CSS3
+- **Repository**: [View Code] (`https://github.com/kamva-hanisi/NestWise-properties`)
+- **Live Demo**: [view Project] (`Add live demo link here`)
 
 ## 🌱 currently learning
 

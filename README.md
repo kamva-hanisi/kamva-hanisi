@@ -17,7 +17,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
 - **Back-end**: Node.js, Express.js, TypeScript, REST API Development
 - **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, **Copilot**, **Render**
-- **Databases**: Postgres (Schema Design, Query Optimization)
+- **Databases**: PostgreSQL (Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
 ## 🚀 What I’m Working On
@@ -38,7 +38,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 
 A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
 
-- **Tech Stack**: React, JavaScript, Node.js, Express.js, Postgres, SASS, Postman
+- **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, SASS, Postman
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/Task-Mananger)
 - **Live Demo**: [View Project] (https://task-mananger-client.onrender.com)
 
@@ -46,7 +46,7 @@ A full-stack task management application built to help users create, organize, u
 
 A web application for a driving school business, designed to present services, support learner engagement, and provide a professional online presence for potential students. The project highlights responsive page layouts, clear service presentation, user-friendly navigation, and business-focused frontend development.
 
-- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, Postgres, SASS
+- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, PostgreSQL, SASS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/driving_school)
 - **Live Demo**: [View Project] (`Add live demo link here`)
 
@@ -54,7 +54,7 @@ A web application for a driving school business, designed to present services, s
 
 A property-focused web application built to showcase real estate listings and present property information in a clean, accessible, and user-friendly way. The project demonstrates frontend interface design, structured content presentation, responsive layouts, and practical business-oriented web development.
 
-- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, Postgres, SASS
+- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, PostgreSQL, SASS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/NestWise-properties)
 - **Live Demo**: [view Project] (`Add live demo link here`)
 

@@ -17,7 +17,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
 - **Back-end**: Node.js, Express.js, TypeScript, REST API Development
 - **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, **Copilot**, **Render**
-- **Databases**: PostgreSQL (Schema Design, Query Optimization)
+- **Databases**: PostgreSQL, MySQL(Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
 ## 🚀 What I’m Working On
@@ -54,7 +54,7 @@ A web application for a driving school business, designed to present services, s
 
 A property-focused web application built to showcase real estate listings and present property information in a clean, accessible, and user-friendly way. The project demonstrates frontend interface design, structured content presentation, responsive layouts, and practical business-oriented web development.
 
-- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, PostgreSQL, SASS
+- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, MySQL, SASS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/NestWise-properties)
 - **Live Demo**: [view Project] (`Add live demo link here`)
 

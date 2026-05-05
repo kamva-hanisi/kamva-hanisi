@@ -40,7 +40,7 @@ A full-stack task management application built to help users create, organize, u
 
 - **Tech Stack**: React, JavaScript, Node.js, Express, MySQL, CSS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/Task-Mananger)
-- **Live Demo**: [View Project] (https://task-mananger-client.onrender.com/)
+- **Live Demo**: [View Project] (https://task-mananger-client.onrender.com)
 
 ### Driving School
 

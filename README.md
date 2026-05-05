@@ -10,14 +10,14 @@ I am a **Full-Stack Software Engineer** with strong experience in building scala
 
 My expertise lies in developing modern, responsive user interfaces and robust backend systems using **React, JavaScript, Node.js, and Express**. I am passionate about building clean, maintainable, and efficient software solutions that solve real-world problems.
 
-My GitHub repositories showcase projects that reflect my technical skills, problem-solving ability, and commitment to continuous learning and professional growth. I am currently focused on refining my portfolio and repositories to better represent my professional capabilities and readiness for new opportunities.
+My GitHub repositories showcase projects that reflect my technical skills, problem-solving ability, and commitment to continuous learning and professional growth. I am currently focused on refining my portfolio and repositories better to represent my professional capabilities and readiness for new opportunities.
 
 ## 🔧 Technologies & Tools
 
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
-- **Back-end**: Node.js, Express, TypeScript, REST API Development
+- **Back-end**: Node.js, Express.js, TypeScript, REST API Development
 - **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, 
-- **Databases**: MySQL (Schema Design, Query Optimization)
+- **Databases**: Postgres (Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
 ## 🚀 What I’m Working On
@@ -38,7 +38,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 
 A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
 
-- **Tech Stack**: React, JavaScript, Node.js, Express, MySQL, CSS
+- **Tech Stack**: React, JavaScript, Node.js, Express.js, Postgres, SASS, Postman
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/Task-Mananger)
 - **Live Demo**: [View Project] (https://task-mananger-client.onrender.com)
 
@@ -46,7 +46,7 @@ A full-stack task management application built to help users create, organize, u
 
 A web application for a driving school business, designed to present services, support learner engagement, and provide a professional online presence for potential students. The project highlights responsive page layouts, clear service presentation, user-friendly navigation, and business-focused frontend development.
 
-- **Tech Stack**: React, JavaScript, HTML5, CSS3
+- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, Postgres, SASS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/driving_school)
 - **Live Demo**: [View Project] (`Add live demo link here`)
 
@@ -54,7 +54,7 @@ A web application for a driving school business, designed to present services, s
 
 A property-focused web application built to showcase real estate listings and present property information in a clean, accessible, and user-friendly way. The project demonstrates frontend interface design, structured content presentation, responsive layouts, and practical business-oriented web development.
 
-- **Tech Stack**: React, JavaScript, HTML5, CSS3
+- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, Postgres, SASS
 - **Repository**: [View Code] (https://github.com/kamva-hanisi/NestWise-properties)
 - **Live Demo**: [view Project] (`Add live demo link here`)
 

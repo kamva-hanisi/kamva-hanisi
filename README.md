@@ -16,7 +16,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
 - **Back-end**: Node.js, Express, TypeScript, REST API Development
-- **Technologies & Tools**: Visual Studio, Git, Postman, Axios, **ChatGPT**
+- **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, 
 - **Databases**: MySQL (Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
@@ -29,7 +29,11 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 ## 📂 WORK
 
 - Check out my repositories here: 😉
- 🔗 https://github.com/kamva-hanisi?tab=repositories
+ 🔗 `https://github.com/kamva-hanisi?tab=repositories`
+
+## PROJECTS
+**Task-Manager** - 
+Deploy - `https://task-mananger-client.onrender.com/`
 
 ## 🌱 currently learning
 

@@ -17,7 +17,7 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 - **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
 - **Back-end**: Node.js, Express.js, TypeScript, REST API Development
 - **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, **Copilot**, **Render**
-- **Databases**: PostgreSQL, MySQL(Schema Design, Query Optimization)
+- **Databases**: PostgreSQL, MySQL, ORM ( Sequelize ), (Schema Design, Query Optimization)
 - **Development Practices**: Agile Development, Code Review, Test-Driven Development
 
 ## 🚀 What I’m Working On
@@ -39,8 +39,8 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
 
 - **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, SASS, Postman
-- **Repository**: [View Code] (https://github.com/kamva-hanisi/Task-Mananger)
-- **Live Demo**: [View Project] (https://task-mananger-client.onrender.com)
+- **Repository**: `View Code` (https://github.com/kamva-hanisi/Task-Mananger)
+- **Live Demo**: `View Project` (https://kamva-hanisi.github.io/Task-Mananger/)
 
 ### Driving School
 

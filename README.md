@@ -39,24 +39,24 @@ My GitHub repositories showcase projects that reflect my technical skills, probl
 A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
 
 - **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, SASS, Postman
-- **Repository**: `View Code` (https://github.com/kamva-hanisi/Task-Mananger)
+- **Repository**: `View Code` (https://github.com/kamva-hanisi/Task-Mananger.git)
 - **Live Demo**: `View Project` (https://kamva-hanisi.github.io/Task-Mananger/)
+
+### Expense Tracker
+
+A full-stack expense tracking application built to help users register, log in, and manage income and expense records through a clean React interface and a Node.js/Express backend. The project demonstrates user authentication, protected routes, PostgreSQL database integration, REST API development, frontend state management, and deployment using GitHub Pages, Vercel, and Neon PostgreSQL.
+
+- **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, Redux Toolkit, Vite, Tailwind CSS
+- **Repository**: `View Code` (https://github.com/kamva-hanisi/Expense-Tracker-App.git)
+- **Live Demo**: `view Project` (https://kamva-hanisi.github.io/Expense-Tracker-App/)
 
 ### Driving School
 
 A web application for a driving school business, designed to present services, support learner engagement, and provide a professional online presence for potential students. The project highlights responsive page layouts, clear service presentation, user-friendly navigation, and business-focused frontend development.
 
 - **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, PostgreSQL, SASS
-- **Repository**: [View Code] (https://github.com/kamva-hanisi/driving_school)
+- **Repository**: `View Code` (https://github.com/kamva-hanisi/driving_school.git)
 - **Live Demo**: [View Project] (`Add live demo link here`)
-
-### NestWise Properties
-
-A property-focused web application built to showcase real estate listings and present property information in a clean, accessible, and user-friendly way. The project demonstrates frontend interface design, structured content presentation, responsive layouts, and practical business-oriented web development.
-
-- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, MySQL, SASS
-- **Repository**: [View Code] (https://github.com/kamva-hanisi/NestWise-properties)
-- **Live Demo**: [view Project] (`Add live demo link here`)
 
 ## 🌱 currently learning
 

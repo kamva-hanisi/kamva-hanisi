@@ -1,76 +1,171 @@
-<img src="images (1).png" alt="" title="" align="right" width="60" height="60" />
+<div align="center">
 
-## Hi there, I'm Kamva-Hanisi👋✨
+<img src="./kay%20Logo.png" alt="Kamva Hanisi Logo" width="165" />
 
-<img src="kay Logo.png" alt="" width="200" height="150">
+👋 Hey, I'm Kamva Hanisi
+ 
+Full-Stack Developer building modern frontend experiences, reliable APIs, and database-driven applications.
+📍 Johannesburg, South Africa
+ 
+ 
+ 
+ 
+</div>
 
-## 💻 About Me
+✨ About Me
+I'm a Full-Stack Developer focused on building clean, scalable, and maintainable web applications across the frontend and backend.
+I enjoy taking an idea from UI → API → database → deployment, with hands-on experience using React.js, Vue.js, Angular, Next.js, Node.js, Express.js, TypeScript, PHP, Laravel, PostgreSQL, and MySQL.
+const kamva = {
+  role: "Full-Stack Developer",
+  location: "Johannesburg, South Africa",
+  frontend: ["React", "Vue", "Angular", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Express.js", "PHP", "Laravel"],
+  databases: ["PostgreSQL", "MySQL"],
+  interests: [
+    "Scalable APIs",
+    "Frontend Architecture",
+    "Database Design",
+    "Testing",
+    "Cloud Deployment"
+  ],
+  currentlyBuilding: "Production-ready full-stack applications"
+};
+🎯 Developer Snapshot
+- 🧩 I enjoy solving real-world problems with practical software.
+- ⚡ I build responsive interfaces, REST APIs, authentication flows, dashboards, and database-driven features.
+- 🧪 I care about testing, debugging, maintainability, and clean project structure.
+- ☁️ I’m growing deeper into CI/CD, cloud deployment, and scalable application architecture.
+- 🤝 Open to Full-Stack, Frontend, and Backend Developer opportunities.
+🧰 Tech Toolbox
+<div align="center">
 
-I am a **Full-Stack Software Engineer** with strong experience in building scalable, production-ready web applications from the ground up. I am proudly trained and certified through the **ALX Software Engineering Program (powered by Holberton Inc.)**, where I gained extensive hands-on experience in both **front-end and back-end development**.
+Frontend
+ 
+Backend & APIs
+ 
+Databases, Tools & Deployment
+ 
+</div>
 
-My expertise lies in developing modern, responsive user interfaces and robust backend systems using **React, JavaScript, Node.js, and Express**. I am passionate about building clean, maintainable, and efficient software solutions that solve real-world problems.
+<div align="center">
 
-My GitHub repositories showcase projects that reflect my technical skills, problem-solving ability, and commitment to continuous learning and professional growth. I am currently focused on refining my portfolio and repositories better to represent my professional capabilities and readiness for new opportunities.
+REST APIs • JWT Authentication • Laravel Sanctum • Axios • Pest • CI/CD • Git Flow • Agile/Scrum • Testing • Debugging
+</div>
 
-## 🔧 Technologies & Tools
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Front-end**: JavaScript, React, HTML5, CSS3, SASS, Tailwind CSS, Redux
-- **Back-end**: Node.js, Express.js, TypeScript, REST API Development
-- **Technologies & Tools**: VS Code, Git, Postman, Axios, **CODEX**, **Copilot**, **Render**
-- **Databases**: PostgreSQL, MySQL, ORM ( Sequelize ), (Schema Design, Query Optimization)
-- **Development Practices**: Agile Development, Code Review, Test-Driven Development
+💰 Expense Tracker
+A full-stack finance application for managing income and expenses through a responsive dashboard with authentication, financial summaries, filtering, and data visualization.
+Built with
+React TypeScript Redux Toolkit Tailwind CSS
+Node.js Express.js PostgreSQL JWT Recharts
 
-## 🚀 What I’m Working On
-- Building and improving full-stack web applications
-- Revamping repositories to align with industry standards
-- Strengthening scalable backend architecture skills
-- Expanding modern frontend development practices
+ 
+ 
+</td>
+<td width="50%" valign="top">
 
-## 📂 WORK
+🗓️ Leave Management
+A full-stack employee leave platform featuring secure authentication, employee management, leave workflows, approvals/rejections, validation, search, and pagination.
+Built with
+Laravel 12 PHP Sanctum React
+MySQL / PostgreSQL SASS Vite Postman
 
-- Check out my repositories here: 😉
- 🔗 https://github.com/kamva-hanisi?tab=repositories
+ 
+</td>
+</tr>
 
-## PROJECTS
+<tr>
+<td width="50%" valign="top">
+
+💼 Job Application Tracker
+A Laravel application for organizing job applications, tracking statuses and interviews, storing salary and job-link information, and visualizing application activity.
+Built with
+PHP Laravel Blade MySQL
+JavaScript Pest Vite
+
+ 
+</td>
+<td width="50%" valign="top">
+
+✅ Task Manager
+A full-stack task management platform with authentication, password reset, protected CRUD operations, REST APIs, PostgreSQL persistence, and responsive UI.
+Built with
+React JavaScript Node.js Express.js
+PostgreSQL SASS JWT Neon
+
+ 
+ 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+🚗 Driving School Management Platform
+A full-stack operations and booking platform with separate client and admin experiences. Learners can book and track lessons while authorized staff manage bookings, availability, customer communication, staff accounts, and daily operations.
+Built with
+React Vite SASS Node.js Express.js PostgreSQL JWT Axios GitHub Actions
+
+ 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🔎 Explore More
+ 
+</div>
+
+📊 GitHub Dashboard
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamva-hanisi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="Kamva Hanisi GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamva-hanisi&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Kamva Hanisi top languages" />
 
 
-### Task-Manager
 
-A full-stack task management application built to help users create, organize, update, and track tasks through a clean React interface and a Node.js/Express backend. The project demonstrates CRUD operations, REST API design, frontend state management, backend routing, environment-based configuration, and database integration.
 
-- **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, SASS, Postman
-- **Repository**: `View Code` (https://github.com/kamva-hanisi/Task-Mananger.git)
-- **Live Demo**: `View Project` (https://kamva-hanisi.github.io/Task-Mananger/)
+<img src="https://streak-stats.demolab.com?user=kamva-hanisi&theme=github-dark-blue&hide_border=true" alt="Kamva Hanisi GitHub streak" />
 
-### Expense Tracker
+</div>
 
-A full-stack expense tracking application built to help users register, log in, and manage income and expense records through a clean React interface and a Node.js/Express backend. The project demonstrates user authentication, protected routes, PostgreSQL database integration, REST API development, frontend state management, and deployment using GitHub Pages, Vercel, and Neon PostgreSQL.
+Note: GitHub language statistics are calculated from public repository code and do not represent the full range of technologies I use.
 
-- **Tech Stack**: React, JavaScript, Node.js, Express.js, PostgreSQL, Redux Toolkit, Vite, Tailwind CSS
-- **Repository**: `View Code` (https://github.com/kamva-hanisi/Expense-Tracker-App.git)
-- **Live Demo**: `view Project` (https://kamva-hanisi.github.io/Expense-Tracker-App/)
+🧠 What I'm Growing
+Backend Architecture      ████████░░
+API Design                ████████░░
+React Architecture        ████████░░
+Database Optimization     ███████░░░
+Automated Testing         ███████░░░
+Cloud & CI/CD             ███████░░░
+My current focus is on becoming stronger at taking features from planning → implementation → testing → deployment, while improving reliability and maintainability along the way.
+🎓 Education
+<div align="center">
 
-### Driving School
+ALX Africa
+Software Engineering Certificate
+2023 — 2024
+</div>
 
-A web application for a driving school business, designed to present services, support learner engagement, and provide a professional online presence for potential students. The project highlights responsive page layouts, clear service presentation, user-friendly navigation, and business-focused frontend development.
+🤝 Let's Build Something
+<div align="center">
 
-- **Tech Stack**: React, JavaScript, Node.js, Postman, Express.js, PostgreSQL, SASS
-- **Repository**: `View Code` (https://github.com/kamva-hanisi/driving_school.git)
-- **Live Demo**: [View Project] (`Add live demo link here`)
+I'm interested in teams building useful products with clean code, collaboration, mentorship, and practical problem-solving.
+Open to
+Full-Stack Development • Frontend Development • Backend Development
 
-## 🌱 currently learning
+ 
+ 
+ 
 
-- Advanced **Software Engineering**
-- Scalable **Full-Stack Development**
-- Modern backend architecture and best practices
-  
-## 📫 Reach me:
 
-- **Email**: lucashanisi@gmail.com
-- **LinkedIn**: kamva-hanisi
-  
-## 🤝 Let's Connect
 
-I’m open to collaborating with **software engineers, developers, and tech teams** working on impactful projects.
-
-Feel free to connect with me 🚀
+⭐ Thanks for stopping by!
+Build. Learn. Improve. Repeat. 🚀
+</div>

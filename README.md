@@ -44,6 +44,18 @@ I care about readable code, dependable user experiences, and software that is st
 | Next.js | Laravel |  | Redux Toolkit |
 | TypeScript | Sanctum |  | Tailwind CSS |
 
+## 🤖 AI Skills
+
+**Tools:** OpenAI Codex | GitHub Copilot | ChatGPT | Tesseract.js
+
+| Skill | Tools | How I Use Them |
+| --- | --- | --- |
+| Prompt engineering | ChatGPT, OpenAI Codex | Write clear, structured prompts to explore solutions and improve development workflows |
+| AI-assisted development | OpenAI Codex, GitHub Copilot | Support planning, coding, refactoring, documentation, and debugging |
+| Technical research | ChatGPT, OpenAI Codex | Compare approaches, understand unfamiliar concepts, and turn findings into practical solutions |
+| OCR integration | Tesseract.js | Extract text from uploaded receipts in the Expense Tracker App |
+| Output validation | Testing and code review | Review, test, and refine AI-assisted output before using it in a project |
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tools | Links |

@@ -1,116 +1,82 @@
 <div align="center">
+  <img src="./assets/logo-profile.png" alt="Kamva Hanisi logo" width="180" />
 
-<img src="./assets/readme/logo.png" alt="Kamva Hanisi Logo" width="220" />
+  <h1>Kamva Hanisi</h1>
 
-<br>
-<br>
+  <img src="./assets/typing-banner.png" alt="Full-Stack Developer - React, Node.js, Laravel, TypeScript, and PostgreSQL" width="100%" />
 
-<img src="./assets/readme/typing-banner.png" alt="Kamva Hanisi typing developer banner" width="100%" />
+  <p>
+    Johannesburg, South Africa | Open to local and remote opportunities
+  </p>
 
-<br>
-<br>
+  <p>
+    <a href="#featured-projects">Featured Work</a>
+    |
+    <a href="https://kamva-hanisi.github.io/Expense-Tracker-App/">Live Project</a>
+    |
+    <a href="https://github.com/kamva-hanisi?tab=repositories">All Repositories</a>
+  </p>
 
-<img src="./assets/readme/social-links.png" alt="Kamva Hanisi social links" width="100%" />
-
-
-<img src="./assets/readme/profile-views.png" alt="Profile views badge" width="60%" />
-
+  <strong>Available for full-stack, frontend, and backend roles</strong>
 </div>
 
-✨ About Me
-I'm a Full-Stack Developer focused on building clean, scalable, and maintainable web applications across the frontend and backend.
-I enjoy taking ideas from UI → API → Database → Deployment, building products with React.js, Vue.js, Angular, Next.js, Node.js, Express.js, TypeScript, PHP, Laravel, PostgreSQL, and MySQL.
-<img src="./assets/readme/hero-banner.png" alt="Kamva Hanisi developer hero banner" width="100%" />
+---
 
-const kamva = {
-  role: "Full-Stack Developer",
-  location: "Johannesburg, South Africa",
-  frontend: ["React", "Vue", "Angular", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express.js", "PHP", "Laravel"],
-  databases: ["PostgreSQL", "MySQL"],
-  interests: [
-    "Scalable APIs",
-    "Frontend Architecture",
-    "Database Design",
-    "Testing",
-    "Cloud Deployment"
-  ]
-};
-🎯 Developer Snapshot
-- 🧩 I enjoy solving real-world problems with practical software.
-- ⚡ I build responsive interfaces, REST APIs, authentication flows, dashboards, and database-driven features.
-- 🧪 I care about testing, debugging, maintainability, and clean project structure.
-- ☁️ I’m growing deeper into CI/CD, cloud deployment, and scalable application architecture.
-- 🤝 Open to Full-Stack, Frontend, and Backend Developer opportunities.
-🧰 Tech Stack
+## About Me
+
+I turn product requirements into responsive interfaces, secure APIs, and well-structured database systems. My projects cover real workflows such as finance tracking, employee leave approvals, job application management, and service bookings.
+
+I care about readable code, dependable user experiences, and software that is straightforward for a team to maintain. I am ready to contribute, learn quickly, and grow alongside an engineering team.
+
+## What I Bring
+
+| Area | How I Can Contribute |
+| --- | --- |
+| Product delivery | Build features across the interface, API, database, and deployment flow |
+| Frontend | Create responsive UIs, dashboards, reusable components, and predictable state |
+| Backend | Develop REST APIs, authentication, validation, and business workflows |
+| Data | Design PostgreSQL and MySQL schemas for practical, data-driven features |
+| Teamwork | Communicate clearly, debug methodically, document decisions, and welcome feedback |
+
+## Tech Stack
+
+| Frontend | Backend | Database | Tools |
+| --- | --- | --- | --- |
+| React | Node.js | PostgreSQL | Git |
+| Vue | Express.js | MySQL | GitHub |
+| Angular | PHP | Neon | Vite |
+| Next.js | Laravel |  | Redux Toolkit |
+| TypeScript | Sanctum |  | Tailwind CSS |
+
+## Featured Projects
+
+| Project | Description | Tools | Links |
+| --- | --- | --- | --- |
+| **Task Manager** | A full-stack productivity app that helps users create, organize, update, and track tasks. It includes authentication, password recovery, protected task operations, and persistent storage. | React, JavaScript, SASS, Axios, Node.js, Express.js, PostgreSQL, JWT, Neon | [GitHub](https://github.com/kamva-hanisi/Task-Mananger.git) / [Live App](https://kamva-hanisi.github.io/Task-Mananger/) |
+| **Expense Tracker App** | A personal finance dashboard for recording income and expenses, reviewing financial summaries, filtering transactions, and visualizing spending data. | React, TypeScript, Redux Toolkit, React Hook Form, Zod, Recharts, Node.js, Express.js, PostgreSQL, JWT | [GitHub](https://github.com/kamva-hanisi/Expense-Tracker-App.git) / [Live App](https://kamva-hanisi.github.io/Expense-Tracker-App/) |
+| **Forge & Fade** | A modern full-stack barbershop platform that makes it easy to explore services and book appointments through a responsive customer experience. | React, JavaScript, SASS, Axios, PHP 8, Laravel, Sanctum, MySQL | [GitHub](https://github.com/kamva-hanisi/Forge-And-Fade.git) / [Live App](https://kamva-hanisi.github.io/Forge-And-Fade/) |
+| **Driving School App** | An online booking platform that enables students to schedule and manage driving lessons, with dedicated customer and administration experiences. | React, Vite, JavaScript, SASS, Axios, Node.js, Express.js, PostgreSQL, JWT, Neon | [GitHub](https://github.com/kamva-hanisi/driving-school-app.git) / [Live App](https://kamva-hanisi.github.io/driving-school-app/) |
+
+## Current Direction
+
+- Building full-stack applications with clear architecture and strong validation.
+- Deepening my testing, CI/CD, cloud deployment, and production-readiness skills.
+- Looking for opportunities to solve useful problems with a collaborative team.
+
+## Education
+
+**ALX Africa**<br />
+Software Engineering Certificate, 2023 - 2024
+
+## Let's Connect
+
+I would be glad to hear from companies, recruiters, founders, developers, and potential collaborators. If you are building something useful or looking for a developer who can work across the stack, let us connect.
+
 <div align="center">
-  <img src="./assets/readme/tech-stack.png" alt="Kamva Hanisi Tech Stack" width="100%" />
-</div>
-
-🚀 Featured Projects
-💰 Expense Tracker
-A full-stack finance application for managing income and expenses through a responsive dashboard with authentication, summaries, filtering, and data visualization.
-Tech: React TypeScript Redux Toolkit Tailwind CSS Node.js Express.js PostgreSQL JWT Recharts
-<a href="https://github.com/kamva-hanisi/Expense-Tracker-App">
-  <img src="./assets/readme/view-code.png" alt="View code button" width="32%" />
-</a>
-<a href="https://kamva-hanisi.github.io/Expense-Tracker-App/">
-  <img src="./assets/readme/live-demo.png" alt="Live demo button" width="32%" />
-</a>
-
-🗓️ Employee Leave Management
-A full-stack leave management platform with secure authentication, employee management, approval workflows, validation, search, and pagination.
-Tech: Laravel 12 PHP Sanctum React MySQL PostgreSQL SASS Vite
-<a href="https://github.com/kamva-hanisi/Employee-Leave-Management-API">
-  <img src="./assets/readme/view-code.png" alt="View code button" width="32%" />
-</a>
-
-💼 Job Application Tracker
-A Laravel application for organizing job applications, tracking statuses and interviews, and managing application activity from one dashboard.
-Tech: PHP Laravel Blade MySQL JavaScript Pest Vite
-<a href="https://github.com/kamva-hanisi/Laravel-Job-Application-Tracker">
-  <img src="./assets/readme/view-code.png" alt="View code button" width="32%" />
-</a>
-
-✅ Task Manager
-A full-stack task management platform with authentication, password reset, protected CRUD operations, REST APIs, and PostgreSQL persistence.
-Tech: React JavaScript Node.js Express.js PostgreSQL SASS JWT Neon
-<a href="https://github.com/kamva-hanisi/Task-Mananger">
-  <img src="./assets/readme/view-code.png" alt="View code button" width="32%" />
-</a>
-<a href="https://kamva-hanisi.github.io/Task-Mananger/">
-  <img src="./assets/readme/live-demo.png" alt="Live demo button" width="32%" />
-</a>
-
-🚗 Driving School Management Platform
-A full-stack operations and booking platform with separate client and admin experiences, booking flows, tracking, staff tools, and PostgreSQL-backed workflows.
-Tech: React Vite SASS Node.js Express.js PostgreSQL JWT Axios
-<a href="https://github.com/kamva-hanisi/driving-school-app">
-  <img src="./assets/readme/view-code.png" alt="View code button" width="32%" />
-</a>
-
-📊 GitHub Dashboard
-<div align="center">
-  <img src="./assets/readme/github-stats.png" alt="GitHub stats dashboard" width="100%" />
-</div>
-
-🧠 Top Languages
-<div align="center">
-  <img src="./assets/readme/top-languages.png" alt="Top languages dashboard" width="100%" />
-</div>
-
-🔥 GitHub Streak
-<div align="center">
-  <img src="./assets/readme/github-streak.png" alt="GitHub streak dashboard" width="100%" />
-</div>
-
-🎓 Education
-- ALX Africa — Software Engineering Certificate (2023 — 2024)
-🤝 Let’s Connect
-I’m interested in teams building useful products with clean code, collaboration, mentorship, and practical problem-solving.
-Open to: Full-Stack Development • Frontend Development • Backend Development
-<div align="center">
-  <a href="https://github.com/kamva-hanisi?tab=repositories">
-    <img src="./assets/readme/view-code.png" alt="View repositories button" width="32%" />
-  </a>
+  <strong>Open to:</strong> Employment | Internships | Freelance Projects | Collaboration
+  <br />
+  <br />
+  <a href="https://github.com/kamva-hanisi">Visit my GitHub profile</a>
+  |
+  <a href="https://github.com/kamva-hanisi?tab=repositories">Explore my work</a>
 </div>
